@@ -41,6 +41,3 @@ This project retrieves literature from PubMed using keywords, extracts key infor
 - **生成结果 / Outputs**：  
   - 文献年份分布的直方图 / A histogram of publication year distribution  
   - 关键词、作者和通讯单位的词云图 / Word clouds for keywords, authors, and affiliations  
-
-简洁高效，助力文献分析与科研洞察！  
-Efficient and concise, empowering literature analysis and scientific insights!
